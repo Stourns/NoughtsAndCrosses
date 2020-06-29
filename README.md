@@ -1,6 +1,6 @@
 # NoughtsAndCrosses
 
-Requirements
+<h2>Requirements</h2>
 Working installation of visual studio.
 
 <h2>How to Install</h2>
